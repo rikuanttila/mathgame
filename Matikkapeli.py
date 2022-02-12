@@ -1,6 +1,4 @@
 """
-COMP.CS.100
-Tekijä: Riku Anttila
 Gui-projekti: Matikkapeli
     Tavoitteena on luoda peli, jossa pelaajalta kysytään yksinkertaisia
     matikka-aiheisia monivalintakysymyksiä. Halutaan myös, että pelaaja
